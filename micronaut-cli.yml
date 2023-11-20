@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [amazon-api-gateway, app-name, assertj, aws-cdk, aws-lambda, aws-lambda-events-serde, aws-lambda-handler-default, aws-parameter-store, aws-secrets-manager, aws-v2-sdk, dynamodb, gradle, hamcrest, http-client-test, java, java-application, junit, lombok, micronaut-aot, micronaut-build, micronaut-http-validation, mockito, mockserver-client-java, openapi, properties, readme, serialization-jackson, shade, slf4j-simple, snapstart, swagger-ui, validation, x86]
